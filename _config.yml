@@ -85,10 +85,10 @@ author:
   bio              : "Undergraduate in Peking University"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4SUkuX48ooYHRVCBHWVV4NS6Tbr_RWRvvsCLB90u1Zre0MMGAApGuIQuWUbnFwJApeTYB2kZLSbgXbSCIM_BOvYAzAww&user=0UFZIEMAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jiaxi_Zhao3?ev=hdr_xprf&_sg=dK6aJuo7a_gqxP4_iaQOxVKM1MSeBSoysf84DL-EJDo9E06nkBBEmfAuUggBMyxLoEk58RL0a3JbSBxIg68MSF0d"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Zjx1998"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/嘉熹-赵-324375192/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
