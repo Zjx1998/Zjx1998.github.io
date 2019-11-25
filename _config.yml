@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiaxi Zhao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiaxi"
 description              : &description "personal description"
 url                      : https://zjx1998.github.io/Zjx2Djt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zjx1998/"
+  github           : "Zjx1998/"
   google_plus      :
   keybase          :
   instagram        :
