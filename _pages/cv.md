@@ -19,17 +19,12 @@ Honor
 Bronze Medals in Geometry and Topology, Analysis and Differential Equations, Probability
 and Statistics
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Assistant
+  * UCLA
+  * Topics: Wasserstein statistics
+  * Supervisor: Dr. [Wuchen Li](https://www.math.ucla.edu/~wcli/)
   
 
 Publications
