@@ -21,7 +21,7 @@ Honor
 * Huawei Scholarship (2%), 2018.
 * Freshman Scholarship (2%),2016.
 * Sopomore Scholarship, 2017.
-* Junior Scholarship, 2017.
+* Junior Scholarship, 2018.
 
 Research experience
 ======
