@@ -38,8 +38,7 @@ Research experience
 * 2017.3 - 2019.10: Research Assistant
   * PKU
   * Topics: Homological Mirror Symmetry
-  * Supervisor: Prof. [Lei Yang]
-(http://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69985.htm)
+  * Supervisor: Prof. [Lei Yang](http://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69985.htm)
   * See [Report](https://github.com/Zjx1998/Zjx2Djt.github.io/files/HMS.pdf) here
   
 
