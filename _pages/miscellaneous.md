@@ -5,6 +5,8 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+This page contains some interested and happy moments in my life, both personal and academic. 
+
 Life
 ======
 * 
