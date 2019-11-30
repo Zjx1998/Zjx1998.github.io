@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Peking University, 2016 - present
+* B.S. in Mathematics & Computer Science(double major), Peking University, 2016 - present
 
 Honor
 ======
-* S. T. Yau College Student Mathematical Contest, 2019.5, Bronze Medals in Geometry and Topology, Analysis and Differential Equations, Probability and Statistics.
-* S. T. Yau College Student Mathematical Contest, 2018.7, Bronze Medal in Team.
+* S. T. Yau College Student Mathematical Contest, Bronze Medals in Geometry and Topology, Analysis and Differential Equations, Probability and Statistics, 2019.5.
+* S. T. Yau College Student Mathematical Contest, Bronze Medal in Team, 2018.7.
 * The elite undergraduate training program of pure mathematics, 2017 - present.
 * Huawei Scholarship (2%), 2018.
 * Freshman Scholarship (2%),2016.
