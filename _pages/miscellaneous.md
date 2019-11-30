@@ -10,7 +10,7 @@ This page contains some interesting and happy moments in my life, both personal 
 Life
 ======
 * Here is a photo of my sweet and beautiful fiancee. We have fell in love since 2017/02/10.
-  [Tingting](/Zjx2Djt.github.io/images/Tingting/jpeg)
+  ![Tingting](/Zjx2Djt.github.io/images/Tingting.jpeg)
 
 Code
 ======
