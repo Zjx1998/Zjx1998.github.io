@@ -25,9 +25,11 @@ I'm primarily interested in several areas related to optimal transport, includin
   * Application to the numerical solution of PDE, design of discrete schemes for PDE from geometric property.
 
 
-
-Education
+Contact
 ======
 * Email
   * Zhaojx21 [@] pku [DOT] edu [DOT] cn
   * zjx98math [@] gmail [DOT] com
+  
+* WeChat
+  * ![WeChat](/Zjx2Djt.github.io/images/WeChat.jpeg)
