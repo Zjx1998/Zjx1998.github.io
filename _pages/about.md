@@ -21,7 +21,7 @@ Research Interest
 I'm primarily interested in several areas related to optimal transport, including statistical optimal transport, mathematical physics equation(i.e. Schrodinger equation) and Ricci Flow. A detailed list below:
   * Wasserstein statistics and data science, Wasserstein barycenter and mathematical theory of GAN.
   * Stochastic analysis and stochastic mechanics, and probability dynamics.
-  * Wasserstein geometry, dynamics and connections with equations in mathematical physics, Ricci Flow. [Here](/files/Ricci_survey.pdf) is some survey on interaction between Ricci Flow, entropy, and optimal transport.
+  * Wasserstein geometry, dynamics and connections with equations in mathematical physics, Ricci Flow. [Here](/Zjx2Djt.github.io/files/Ricci_survey.pdf) is some survey on interaction between Ricci Flow, entropy, and optimal transport.
   * Application to the numerical solution of PDE, design of discrete schemes for PDE from geometric property.
 
 
