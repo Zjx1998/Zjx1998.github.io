@@ -12,7 +12,7 @@ redirect_from:
 Personal Information
 ======
 
-I'm an undergraduate in the School of Mathematical Science(SMS), Peking University(PKU). During my first two years in PKU, I had some interesting research experience on the [Homological Mirror Symmetry(HMS)](https://en.wikipedia.org/wiki/Homological_mirror_symmetry) under the supervision of Prof. [Lei Yang](http://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69985.htm). Now, my research advisors are Prof. [Hao Ge](http://bicmr.pku.edu.cn/~gehao/English%20version/main_english.htm) and Dr. [Wuchen Li](https://www.math.ucla.edu/~wcli/). I'm lucky and pleasant to be advised by them.
+I'm an undergraduate in the School of Mathematical Science(SMS), Peking University(PKU). During my first two years in PKU, I had some interesting research experience on the [Homological Mirror Symmetry(HMS)](https://en.wikipedia.org/wiki/Homological_mirror_symmetry) under the supervision of Prof. [Lei Yang](http://www.math.pku.edu.cn/jsdw/js_20180628175159671361/y_20180628175159671361/69985.htm). Now, my research advisors are Prof. [Hao Ge](http://bicmr.pku.edu.cn/~gehao/English%20version/main_english.htm) and Dr. [Wuchen Li](https://www.math.ucla.edu/~wcli/). I'm very lucky and pleased with working with them.
 
 
 Research Interest
