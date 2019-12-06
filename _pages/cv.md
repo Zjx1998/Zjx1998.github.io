@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 * 2018.12 - present: Research Assistant
-  * UCLA
+  *UCLA
   * Topics: Wasserstein statistics, dynamics, and geometry
   * Supervisor: Dr. [Wuchen Li](https://www.math.ucla.edu/~wcli/)
   
@@ -38,7 +38,10 @@ Publications
 
 Honor
 ======
-* S. T. Yau College Student Mathematical Contest, Bronze Medals in Geometry and Topology, Analysis and Differential Equations, Probability and Statistics, 2019.5.
+* S. T. Yau College Student Mathematical Contest, 2019.5.
+  * Bronze Medals in Geometry and Topology
+  * Analysis and Differential Equations 
+  * Probability and Statistics
 * S. T. Yau College Student Mathematical Contest, Bronze Medal in Team, 2018.7.
 * The elite undergraduate training program of pure mathematics, 2017 - present.
 * Huawei Scholarship (2%), 2018.
