@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 * 2018.12 - present: Research Assistant
-  *UCLA
+  <!-- UCLA -->
   * Topics: Wasserstein statistics, dynamics, and geometry
   * Supervisor: Dr. [Wuchen Li](https://www.math.ucla.edu/~wcli/)
   
