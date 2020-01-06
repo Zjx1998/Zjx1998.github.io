@@ -20,8 +20,8 @@ Code
 ======
 * Ising and Potts model
   * [Code](https://github.com/Zjx1998/Ising-model)
-  * [Report](https://github.com/Zjx1998/Zjx2Djt.github.io/files/Ising.pdf)
-  * [Slide](https://github.com/Zjx1998/Zjx2Djt.github.io/files/Ising_slide.pdf)
+  * [Report](https://zjx1998.github.io/Zjx2Djt.github.io//files/Ising.pdf)
+  * [Slide](https://zjx1998.github.io/Zjx2Djt.github.io//files/Ising_slide.pdf)
 
 * Wasserstein Barycenter & Image Processing
   * [Code](https://github.com/Zjx1998/Ising-model)
